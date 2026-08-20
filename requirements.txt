@@ -1,0 +1,41 @@
+python-dotenv
+pydantic
+pydantic-settings
+httpx
+requests
+
+# LLM / Agent frameworks
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langgraph
+langgraph-checkpoint
+mcp
+
+# RAG / embeddings / vector databases
+sentence-transformers
+faiss-cpu
+chromadb
+pypdf
+pymupdf
+
+# API / backend
+fastapi
+uvicorn[standard]
+
+# Data / ML utilities
+numpy
+pandas
+scikit-learn
+
+# Evaluation / observability / MLOps
+mlflow
+ragas
+langsmith
+
+# Development / testing
+pytest
+pytest-asyncio
+rufff
